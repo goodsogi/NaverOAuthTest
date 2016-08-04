@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/johnny/AndroidStudioProjects/NaverOAuthSample/app/libs/naver-oauth-login-4.1.4-with-sources.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c821232c173c623e74271c6efd65517e6a10060">
+        <dex dex="/home/johnny/AndroidStudioProjects/NaverOAuthSample/app/build/intermediates/pre-dexed/debug/naver-oauth-login-4.1.4-with-sources-219fefe48dabdb056552fe0b7aa9325ee9ed20cc.jar" />
+    </item>
+
+</items>
